@@ -1,5 +1,5 @@
 # Selenium Browser Extensiom
-The Selenium browser extension is a plugin that enables Selenium IDE developers to record and replay Infrastructure (API, DB calls). It records these calls automatically while test-cases are being captured. 
+The Selenium browser extension is a plugin that enables Selenium IDE developers to record and replay Infrastructure (API, DB calls). It records these calls automatically while test-cases are being captured. It also replays these calls during playback of the test-cases. This enables developers to write Selenium tests that are independent of the infrastructure.
 
 ## Contents
 1. [Prerequisite](#prerequisite)

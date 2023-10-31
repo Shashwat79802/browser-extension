@@ -1,5 +1,5 @@
 {
-    "name": "keploy-plugin",
+    "name": "keploy-plugi",
     "description": "Selenium extension to automatically record and mock the backend calls using Keploy for testing. This requires keploy server running.",
     "version": "0.1.3",
     "homepage": "keploy.io",
